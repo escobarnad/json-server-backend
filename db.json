@@ -95,7 +95,7 @@
     {
       "id": 1,
       "whiskeyId": 1,
-      "user": "",
+      "userName": "",
       "nose": "Peaty, Bonfires, Iodine",
       "taste": "Peaty, Pepper, Oak ,Caramel",
       "finish": "Citric, Salt, New wood"
@@ -103,7 +103,7 @@
     {
       "id": 2,
       "whiskeyId": 2,
-      "user": "",
+      "userName": "",
       "nose": "Honey, Pear, Vanilla, Fresh fruit",
       "taste": "Pear, Sweet, Honey, Apple",
       "finish": "Oak, Spicy, Sweet"
@@ -111,7 +111,7 @@
     {
       "id": 3,
       "whiskeyId": 3,
-      "user": "",
+      "userName": "",
       "nose": "Spicy, Sherried, Caramel, Vanilla",
       "taste": "Vanilla, Spicy, Honey, Oak",
       "finish": "Oak, Spicy, Vanilla"
@@ -119,7 +119,7 @@
     {
       "id": 4,
       "whiskeyId": 4,
-      "user": "",
+      "userName": "",
       "nose": "Vanilla, Caramel, Banana",
       "taste": "Vanilla, Sweet, Caramel, Oak, Banana",
       "finish": "Oak, Caramel, Vanilla, Spicy"
@@ -127,7 +127,7 @@
     {
       "id": 5,
       "whiskeyId": 5,
-      "user": "",
+      "userName": "",
       "nose": "Peaty, Iodine, Seaweed, Sweet",
       "taste": "Smoky, Iodine, Salt",
       "finish": "Pepper, Peaty, Nutty, Bitter"
@@ -135,7 +135,7 @@
     {
       "id": 6,
       "whiskeyId": 6,
-      "user": "",
+      "userName": "",
       "nose": "Apple, Honey, Sulphuric",
       "taste": "Toffee, Smoky, Honey",
       "finish": "Honey, Fresh Fruit, Caramel, Metallic"
@@ -143,7 +143,7 @@
     {
       "id": 7,
       "whiskeyId": 7,
-      "user": "",
+      "userName": "",
       "nose": "Apple, Honey, Vanilla, Floral, Pear",
       "taste": "Vanilla, Honey, Pear, Apple, Oak",
       "finish": "Oak, Vanilla, Honey, Spicy"
@@ -151,7 +151,7 @@
     {
       "id": 8,
       "whiskeyId": 8,
-      "user": "",
+      "userName": "",
       "nose": "Orange, Sherried, Vanilla",
       "taste": "Vanilla, Sherried, Spicy, Oak, Orange",
       "finish": "Oak, Vanilla, Sherried, Spicy"
@@ -159,7 +159,7 @@
     {
       "id": 9,
       "whiskeyId": 9,
-      "user": "",
+      "userName": "",
       "nose": "Iodine, Toffee, Oily, Sea-encrusted rope, Pine needle",
       "taste": "Peaty, Citrus, Salt, Almont",
       "finish": "Butterscotch, Vanilla, Peaty, Salt"
@@ -167,10 +167,13 @@
     {
       "id": 10,
       "whiskeyId": 10,
-      "user": "",
+      "userName": "",
       "nose": "Oak, Vanilla, Butterscotch, Orange",
       "taste": "Vanilla, Honey, Sherried, Oak",
       "finish": "Sweet, Oak, Vanilla, Sherried, Spicy"
     }
+  ],
+  "whiskeyRequest": [
+
   ]
 }
