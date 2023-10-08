@@ -95,219 +95,82 @@
     {
       "id": 1,
       "whiskeyId": 1,
-      "nose": [
-        "Peaty",
-        "Bonfires",
-        "Iodine"
-      ],
-      "taste": [
-        "Peaty",
-        "Pepper",
-        "Oak",
-        "Caramel"
-      ],
-      "finish": [
-        "Citric",
-        "Salt",
-        "New wood"
-      ]
+      "user": "",
+      "nose": "Peaty, Bonfires, Iodine",
+      "taste": "Peaty, Pepper, Oak ,Caramel",
+      "finish": "Citric, Salt, New wood"
     },
     {
       "id": 2,
       "whiskeyId": 2,
-      "nose": [
-        "Honey",
-        "Pear",
-        "Vanilla",
-        "Fresh fruit"
-      ],
-      "taste": [
-        "Pear",
-        "Sweet",
-        "Honey",
-        "Apple"
-      ],
-      "finish": [
-        "Oak",
-        "Spicy",
-        "Sweet"
-      ]
+      "user": "",
+      "nose": "Honey, Pear, Vanilla, Fresh fruit",
+      "taste": "Pear, Sweet, Honey, Apple",
+      "finish": "Oak, Spicy, Sweet"
     },
     {
       "id": 3,
       "whiskeyId": 3,
-      "nose": [
-        "Spicy",
-        "Sherried",
-        "Caramel",
-        "Vanilla"
-      ],
-      "taste": [
-        "Vanilla",
-        "Spicy",
-        "Honey",
-        "Oak"
-      ],
-      "finish": [
-        "Oak",
-        "Spicy",
-        "Vanilla"
-      ]
+      "user": "",
+      "nose": "Spicy, Sherried, Caramel, Vanilla",
+      "taste": "Vanilla, Spicy, Honey, Oak",
+      "finish": "Oak, Spicy, Vanilla"
     },
     {
       "id": 4,
       "whiskeyId": 4,
-      "nose": [
-        "Vanilla",
-        "Caramel",
-        "Banana"
-      ],
-      "taste": [
-        "Vanilla",
-        "Sweet",
-        "Caramel",
-        "Oak",
-        "Banana"
-      ],
-      "finish": [
-        "Oak",
-        "Caramel",
-        "Vanilla",
-        "Spicy"
-      ]
+      "user": "",
+      "nose": "Vanilla, Caramel, Banana",
+      "taste": "Vanilla, Sweet, Caramel, Oak, Banana",
+      "finish": "Oak, Caramel, Vanilla, Spicy"
     },
     {
       "id": 5,
       "whiskeyId": 5,
-      "nose": [
-        "Peaty",
-        "Iodine",
-        "Seaweed",
-        "Sweet"
-      ],
-      "taste": [
-        "Smoky",
-        "Iodine",
-        "Salt"
-      ],
-      "finish": [
-        "Pepper",
-        "Peaty",
-        "Nutty",
-        "Bitter"
-      ]
+      "user": "",
+      "nose": "Peaty, Iodine, Seaweed, Sweet",
+      "taste": "Smoky, Iodine, Salt",
+      "finish": "Pepper, Peaty, Nutty, Bitter"
     },
     {
       "id": 6,
       "whiskeyId": 6,
-      "nose": [
-        "Apple",
-        "Honey",
-        "Sulphuric"
-      ],
-      "taste": [
-        "Toffee",
-        "Smoky",
-        "Honey"
-      ],
-      "finish": [
-        "Honey",
-        "Fresh Fruit",
-        "Caramel",
-        "Metallic"
-      ]
+      "user": "",
+      "nose": "Apple, Honey, Sulphuric",
+      "taste": "Toffee, Smoky, Honey",
+      "finish": "Honey, Fresh Fruit, Caramel, Metallic"
     },
     {
       "id": 7,
       "whiskeyId": 7,
-      "nose": [
-        "Apple",
-        "Honey",
-        "Vanilla",
-        "Floral",
-        "Pear"
-      ],
-      "taste": [
-        "Vanilla",
-        "Honey",
-        "Pear",
-        "Apple",
-        "Oak"
-      ],
-      "finish": [
-        "Oak",
-        "Vanilla",
-        "Honey",
-        "Spicy"
-      ]
+      "user": "",
+      "nose": "Apple, Honey, Vanilla, Floral, Pear",
+      "taste": "Vanilla, Honey, Pear, Apple, Oak",
+      "finish": "Oak, Vanilla, Honey, Spicy"
     },
     {
       "id": 8,
       "whiskeyId": 8,
-      "nose": [
-        "Orange",
-        "Sherried",
-        "Vanilla"
-      ],
-      "taste": [
-        "Vanilla",
-        "Sherried",
-        "Spicy",
-        "Oak",
-        "Orange"
-      ],
-      "finish": [
-        "Oak",
-        "Vanilla",
-        "Sherried",
-        "Spicy"
-      ]
+      "user": "",
+      "nose": "Orange, Sherried, Vanilla",
+      "taste": "Vanilla, Sherried, Spicy, Oak, Orange",
+      "finish": "Oak, Vanilla, Sherried, Spicy"
     },
     {
       "id": 9,
       "whiskeyId": 9,
-      "nose": [
-        "Iodine",
-        "Toffee",
-        "Oily",
-        "Sea-encrusted rope",
-        "Pine needle"
-      ],
-      "taste": [
-        "Peaty",
-        "Citrus",
-        "Salt",
-        "Almont"
-      ],
-      "finish": [
-        "Butterscotch",
-        "Vanilla",
-        "Peaty",
-        "Salt"
-      ]
+      "user": "",
+      "nose": "Iodine, Toffee, Oily, Sea-encrusted rope, Pine needle",
+      "taste": "Peaty, Citrus, Salt, Almont",
+      "finish": "Butterscotch, Vanilla, Peaty, Salt"
     },
     {
       "id": 10,
       "whiskeyId": 10,
-      "nose": [
-        "Oak",
-        "Vanilla",
-        "Butterscotch",
-        "Orange"
-      ],
-      "taste": [
-        "Vanilla",
-        "Honey",
-        "Sherried",
-        "Oak"
-      ],
-      "finish": [
-        "Sweet",
-        "Oak",
-        "Vanilla",
-        "Sherried",
-        "Spicy"
-      ]
+      "user": "",
+      "nose": "Oak, Vanilla, Butterscotch, Orange",
+      "taste": "Vanilla, Honey, Sherried, Oak",
+      "finish": "Sweet, Oak, Vanilla, Sherried, Spicy"
     }
   ]
 }
